@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Aeda Stren",
+    "nim": "0110213",
+    "jurusan": "Teknik Informatika",
+    "mahasiswa": true,
+    "hobby": ["Sepak Bola", "Bulu Tangkis"],
+    "dosen": {
+      "dosenPembimbing1": "Kana Hanazawa",
+      "dosenPembimbing2": "Horimiya"
+    }
+  },
+  {
+    "nama": "Aeda Stren",
+    "nim": "0110213",
+    "jurusan": "Teknik Informatika",
+    "mahasiswa": true,
+    "hobby": ["Sepak Bola", "Bulu Tangkis"],
+    "dosen": {
+      "dosenPembimbing1": "Kana Hanazawa",
+      "dosenPembimbing2": "Horimiya"
+    }
+  }
+]
