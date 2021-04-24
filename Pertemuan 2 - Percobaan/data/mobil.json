@@ -1,0 +1,112 @@
+{
+  "mobil": [
+    {
+      "kategori": "mobil kecil",
+      "nama_mobil": "Accord",
+      "harga": "7296000000",
+      "transmisi": "otomatis",
+      "bahan_bakar": "bensin",
+      "mesin": "2400",
+      "gambar": "hondda-accord.jpg"
+    },
+    {
+      "kategori": "mobil besar",
+      "nama_mobil": "BR-V",
+      "harga": "279600000",
+      "transmisi": "otomatis",
+      "bahan_bakar": "bensin",
+      "mesin": "1497",
+      "gambar": "honda_br-v.jpg"
+    },
+    {
+      "kategori": "mobil kecil",
+      "nama_mobil": "Brio",
+      "harga": "2002000000",
+      "transmisi": "manual",
+      "bahan_bakar": "bensin",
+      "mesin": "1199",
+      "gambar": "brio.jpg"
+    },
+    {
+      "kategori": "mobil sedang",
+      "nama_mobil": "City",
+      "harga": "3526000000",
+      "transmisi": "otomatis",
+      "bahan_bakar": "bensin",
+      "mesin": "1497",
+      "gambar": "city.jpg"
+    },
+    {
+      "kategori": "mobil besar",
+      "nama_mobil": "City Hatchback",
+      "harga": "299000000",
+      "transmisi": "manual",
+      "bahan_bakar": "bensin",
+      "mesin": "1500",
+      "gambar": "City-Hatchback.jpg"
+    },
+    {
+      "kategori": "mobil kecil",
+      "nama_mobil": "Civic",
+      "harga": "53300000000",
+      "transmisi": "otomatis",
+      "bahan_bakar": "bensin",
+      "mesin": "1496",
+      "gambar": "Honda Civic.jpg"
+    },
+    {
+      "kategori": "mobil sedang",
+      "nama_mobil": "Civic Hatchback",
+      "harga": "5128000000",
+      "transmisi": "otomatis",
+      "bahan_bakar": "bensin",
+      "mesin": "1498",
+      "gambar": "civit-hatchback biru.jpg"
+    },
+    {
+      "kategori": "mobil sedang",
+      "nama_mobil": "Civic Type R",
+      "harga": "1067000000000",
+      "transmisi": "manual",
+      "bahan_bakar": "bensin",
+      "mesin": "1996",
+      "gambar": "civicc-type-r.jpg"
+    },
+    {
+      "kategori": "mobil besar",
+      "nama_mobil": "CR-V",
+      "harga": "4606000000",
+      "transmisi": "otomatis",
+      "bahan_bakar": "bensin",
+      "mesin": "1997",
+      "gambar": "Honda-CR-V.jpg"
+    },
+    {
+      "kategori": "mobil besar",
+      "nama_mobil": "HR-V",
+      "harga": "2872000000",
+      "transmisi": "otomatis",
+      "bahan_bakar": "bensin",
+      "mesin": "1497",
+      "gambar": "Honda_HRV.jpg"
+    },
+    {
+      "kategori": "mobil kecil",
+      "nama_mobil": "Jaz",
+      "harga": "300000000",
+      "transmisi": "otomatis",
+      "bahan_bakar": "bensin",
+      "mesin": "1497",
+      "gambar": "honda-jazz.jpg"
+    },
+    {
+      "kategori": "mobil kecil",
+      "nama_mobil": "Mobilio",
+      "harga": "250000000",
+      "transmisi": "otomatis",
+      "bahan_bakar": "bensin",
+      "mesin": "1500",
+      "gambar": "honda-mobilio.jpg"
+    }
+  ]
+}
